@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/sachin-yadavv/leetcode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
