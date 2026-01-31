@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sachin-yadavv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sachin-yadavv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
