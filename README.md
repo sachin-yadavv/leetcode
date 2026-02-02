@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/0118-pascals-triangle) |
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin-yadavv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/0118-pascals-triangle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
