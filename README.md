@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin-yadavv/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 ## Breadth-First Search
 |  |
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 <!---LeetCode Topics End-->
