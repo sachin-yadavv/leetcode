@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/0118-pascals-triangle) |
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin-yadavv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
