@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
+| [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 ## Hash Table
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
