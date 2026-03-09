@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3379-transformed-array](https://github.com/sachin-yadavv/leetcode/tree/master/3379-transformed-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sachin-yadavv/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin-yadavv/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 | [3379-transformed-array](https://github.com/sachin-yadavv/leetcode/tree/master/3379-transformed-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin-yadavv/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
@@ -178,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
