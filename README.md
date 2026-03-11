@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 | [3379-transformed-array](https://github.com/sachin-yadavv/leetcode/tree/master/3379-transformed-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin-yadavv/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
