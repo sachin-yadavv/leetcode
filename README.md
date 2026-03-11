@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/sachin-yadavv/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sachin-yadavv/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/sachin-yadavv/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Backtracking
 |  |
 | ------- |
