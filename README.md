@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachin-yadavv/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
+| [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 ## Breadth-First Search
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
