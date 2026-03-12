@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3379-transformed-array](https://github.com/sachin-yadavv/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sachin-yadavv/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
+| [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
