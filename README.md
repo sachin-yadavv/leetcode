@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/sachin-yadavv/leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1934-confirmation-rate](https://github.com/sachin-yadavv/leetcode/tree/master/1934-confirmation-rate) |
 ## Binary Search
 |  |
 | ------- |
