@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/sachin-yadavv/leetcode/tree/master/0436-find-right-interval) |
 | [0495-teemo-attacking](https://github.com/sachin-yadavv/leetcode/tree/master/0495-teemo-attacking) |
+| [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sachin-yadavv/leetcode/tree/master/0070-climbing-stairs) |
+| [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
+| [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
