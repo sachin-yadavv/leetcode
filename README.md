@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/sachin-yadavv/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin-yadavv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/sachin-yadavv/leetcode/tree/master/0724-find-pivot-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
