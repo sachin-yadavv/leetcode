@@ -7,7 +7,7 @@ public:
         stack<int> st;
 
         for(int i = n - 1; i >= 0; i--) {
-            while(!st.empty() && arr[st.top()] >= arr[i]) {
+            while(!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
             }
             nse[i] = st.empty() ? n : st.top();
@@ -22,7 +22,7 @@ public:
         stack<int> st;
 
         for(int i = 0; i < n; i++) {
-            while(!st.empty() && arr[st.top()] > arr[i]) {
+            while(!st.empty() && arr[st.top()] >= arr[i]) {
                 st.pop();
             }
             psee[i] = st.empty() ? -1 : st.top();
@@ -53,7 +53,7 @@ public:
         stack<int> st;
 
         for(int i = n - 1; i >= 0; i--) {
-            while(!st.empty() && arr[st.top()] < arr[i]) {
+            while(!st.empty() && arr[st.top()] <= arr[i]) {
                 st.pop();
             }
             ngee[i] = st.empty() ? n : st.top();
@@ -68,7 +68,7 @@ public:
         stack<int> st;
 
         for(int i = 0; i < n; i++) {
-            while(!st.empty() && arr[st.top()] <=arr[i]) {
+            while(!st.empty() && arr[st.top()] < arr[i]) {
                 st.pop();
             }
             pge[i] = st.empty() ? -1 : st.top();
