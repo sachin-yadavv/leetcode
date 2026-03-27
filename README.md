@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sachin-yadavv/leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sachin-yadavv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin-yadavv/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/0118-pascals-triangle) |
 | [0228-summary-ranges](https://github.com/sachin-yadavv/leetcode/tree/master/0228-summary-ranges) |
 | [0334-increasing-triplet-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachin-yadavv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin-yadavv/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sachin-yadavv/leetcode/tree/master/0735-asteroid-collision) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachin-yadavv/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin-yadavv/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
