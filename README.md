@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sachin-yadavv/leetcode/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/sachin-yadavv/leetcode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sachin-yadavv/leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sachin-yadavv/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sachin-yadavv/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
