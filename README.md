@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachin-yadavv/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Memoization
 |  |
 | ------- |
