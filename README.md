@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/sachin-yadavv/leetcode/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/sachin-yadavv/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sachin-yadavv/leetcode/tree/master/0735-asteroid-collision) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/sachin-yadavv/leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/sachin-yadavv/leetcode/tree/master/0645-set-mismatch) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/sachin-yadavv/leetcode/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sachin-yadavv/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/sachin-yadavv/leetcode/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/sachin-yadavv/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sachin-yadavv/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/sachin-yadavv/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Backtracking
