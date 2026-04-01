@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sachin-yadavv/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sachin-yadavv/leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin-yadavv/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1929-concatenation-of-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sachin-yadavv/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin-yadavv/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/sachin-yadavv/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin-yadavv/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/sachin-yadavv/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Combinatorics
 |  |
