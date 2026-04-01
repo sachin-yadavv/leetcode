@@ -5,12 +5,12 @@ public:
 
         vector<int> idx(n);
         for(int i = 0; i < n; i++) idx[i] = i;
-        
+
          auto lambda = [&](int i, int j) {
             return positions[i] < positions[j];
         };
 
-        sort(begin(idx), end(idx), lambda);
+        sort(idx.begin(), idx.end(), lambda);
 
         stack<int> st; 
 
@@ -22,20 +22,20 @@ public:
                 //  moving left
                 while(!st.empty() && healths[id] > 0) {
                     int j = st.top();
-                    st.pop();  
+                    // st.pop();  
 
                     if(healths[j] < healths[id]) {
-                        // st.pop();
+                        st.pop();
                         healths[j]=0;   // right dies 
                         healths[id]--;   // left  loses 1
                     } 
                     else if(healths[j] > healths[id]) {
                         healths[j]--;    // right survives
                         healths[id] = 0; // left dies
-                        st.push(j);
+                        // st.push(j);
                     } 
                     else {
-                        // st.pop();
+                        st.pop();
                         healths[j]=0;        // both die
                         healths[id] = 0;
                     }
