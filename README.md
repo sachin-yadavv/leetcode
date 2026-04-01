@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/sachin-yadavv/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sachin-yadavv/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sachin-yadavv/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin-yadavv/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sachin-yadavv/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sachin-yadavv/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin-yadavv/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/sachin-yadavv/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sachin-yadavv/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/sachin-yadavv/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin-yadavv/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/sachin-yadavv/leetcode/tree/master/2104-sum-of-subarray-ranges) |
