@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/sachin-yadavv/leetcode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/sachin-yadavv/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sachin-yadavv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachin-yadavv/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sachin-yadavv/leetcode/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/sachin-yadavv/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
