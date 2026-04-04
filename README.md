@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/sachin-yadavv/leetcode/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sachin-yadavv/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/sachin-yadavv/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin-yadavv/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 | [2751-robot-collisions](https://github.com/sachin-yadavv/leetcode/tree/master/2751-robot-collisions) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/sachin-yadavv/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
