@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin-yadavv/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/sachin-yadavv/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/sachin-yadavv/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sachin-yadavv/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/sachin-yadavv/leetcode/tree/master/0724-find-pivot-index) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/sachin-yadavv/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
