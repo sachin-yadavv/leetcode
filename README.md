@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachin-yadavv/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1701-average-waiting-time](https://github.com/sachin-yadavv/leetcode/tree/master/1701-average-waiting-time) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sachin-yadavv/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sachin-yadavv/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
