@@ -3,7 +3,7 @@
     SELECT u.name AS results
     FROM Users u
     JOIN MovieRating r ON u.user_id = r.user_id
-    GROUP BY u.user_id, u.name
+    GROUP BY u.user_id
     ORDER BY COUNT(*) DESC, u.name ASC
     LIMIT 1
 )
@@ -15,7 +15,7 @@ UNION ALL
     FROM Movies m
     JOIN MovieRating r ON m.movie_id = r.movie_id
     WHERE DATE_FORMAT(r.created_at, '%Y-%m') = '2020-02'
-    GROUP BY m.movie_id, m.title
+    GROUP BY m.movie_id
     ORDER BY AVG(r.rating) DESC, m.title ASC
     LIMIT 1
 );
