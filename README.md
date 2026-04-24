@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/sachin-yadavv/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sachin-yadavv/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
+| [2833-furthest-point-from-origin](https://github.com/sachin-yadavv/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Breadth-First Search
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2833-furthest-point-from-origin](https://github.com/sachin-yadavv/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
 | ------- |
