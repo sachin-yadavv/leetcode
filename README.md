@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sachin-yadavv/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sachin-yadavv/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-path-with-minimum-effort](https://github.com/sachin-yadavv/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin-yadavv/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachin-yadavv/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1701-average-waiting-time](https://github.com/sachin-yadavv/leetcode/tree/master/1701-average-waiting-time) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sachin-yadavv/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin-yadavv/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/sachin-yadavv/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sachin-yadavv/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin-yadavv/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2751-robot-collisions](https://github.com/sachin-yadavv/leetcode/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
