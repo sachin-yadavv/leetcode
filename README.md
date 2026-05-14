@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin-yadavv/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sachin-yadavv/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/sachin-yadavv/leetcode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/sachin-yadavv/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin-yadavv/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin-yadavv/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2751-robot-collisions](https://github.com/sachin-yadavv/leetcode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/sachin-yadavv/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin-yadavv/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sachin-yadavv/leetcode/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sachin-yadavv/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2784-check-if-array-is-good](https://github.com/sachin-yadavv/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sachin-yadavv/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3488-closest-equal-element-queries](https://github.com/sachin-yadavv/leetcode/tree/master/3488-closest-equal-element-queries) |
