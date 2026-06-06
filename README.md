@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/sachin-yadavv/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/sachin-yadavv/leetcode/tree/master/0585-investments-in-2016) |
+| [1075-project-employees-i](https://github.com/sachin-yadavv/leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/sachin-yadavv/leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/sachin-yadavv/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/sachin-yadavv/leetcode/tree/master/1280-students-and-examinations) |
