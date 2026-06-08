@@ -1,21 +1,24 @@
 class Solution {
 public:
-int func(int ind,int T,vector<int>&a, vector<vector<int>> &dp){
-    if(ind==0){
-        if(T%a[ind]==0) return T/a[ind];
-        else return 1e9;
-    }
-    if(dp[ind][T]!=-1) return dp[ind][T];
-    int notake= 0+func(ind-1,T,a,dp);
-    int take=1e9;
-    if(a[ind]<=T) take = 1+func(ind,T-a[ind],a,dp);
 
-    return dp[ind][T]= min(take,notake);
-}
-    int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<vector<int>> dp(n,vector<int>(amount+1,-1));
-        int ans =  func(n-1,amount,coins,dp);
+       int coinChange(vector<int>& a, int amount) {
+        int n = a.size();
+        vector<vector<int>> dp(n,vector<int>(amount+1,0));
+        for(int t=0;t<=amount;t++){
+             if(t%a[0]==0) dp[0][t]=t/a[0];
+            else dp[0][t]=1e9;
+        }
+        for(int ind=1;ind<n;ind++){
+            for(int t=0;t<=amount;t++){
+                  int notake= 0+dp[ind-1][t];
+                    int take=1e9;
+                if(a[ind]<=t) take = 1+dp[ind][t-a[ind]];
+
+                 dp[ind][t]= min(take,notake);
+            }
+        }
+        
+        int ans =  dp[n-1][amount];
         if(ans>=1e9) return -1;
         return ans;
     }
