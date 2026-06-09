@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/sachin-yadavv/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sachin-yadavv/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sachin-yadavv/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sachin-yadavv/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2810-faulty-keyboard](https://github.com/sachin-yadavv/leetcode/tree/master/2810-faulty-keyboard) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin-yadavv/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/sachin-yadavv/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sachin-yadavv/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Graph Theory
 |  |
 | ------- |
