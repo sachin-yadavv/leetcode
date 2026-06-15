@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/sachin-yadavv/leetcode/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
