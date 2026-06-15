@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/sachin-yadavv/leetcode/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sachin-yadavv/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -452,10 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
