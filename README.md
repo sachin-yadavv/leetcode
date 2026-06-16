@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachin-yadavv/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin-yadavv/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sachin-yadavv/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sachin-yadavv/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachin-yadavv/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0706-design-hashmap](https://github.com/sachin-yadavv/leetcode/tree/master/0706-design-hashmap) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sachin-yadavv/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sachin-yadavv/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachin-yadavv/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachin-yadavv/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachin-yadavv/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/sachin-yadavv/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachin-yadavv/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sachin-yadavv/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachin-yadavv/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sachin-yadavv/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
