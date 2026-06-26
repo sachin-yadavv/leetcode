@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/sachin-yadavv/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sachin-yadavv/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sachin-yadavv/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin-yadavv/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sachin-yadavv/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Math
 |  |
 | ------- |
@@ -387,10 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/sachin-yadavv/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/sachin-yadavv/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/sachin-yadavv/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sachin-yadavv/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/sachin-yadavv/leetcode/tree/master/0401-binary-watch) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sachin-yadavv/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
 |  |
 | ------- |
