@@ -9,7 +9,7 @@ public:
             int x=nums[i];
             if(x==1){
                 if(mp[x]%2!=0)ans=max(ans,mp[x]);
-                else ans=max(ans,mp[x]-1);
+                else ans=max(ans,mp[x]-1);    // 1's case
             }
             else{
                 int ct=0;
