@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sachin-yadavv/leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/sachin-yadavv/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sachin-yadavv/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin-yadavv/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/sachin-yadavv/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin-yadavv/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sachin-yadavv/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin-yadavv/leetcode/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sachin-yadavv/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Math
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sachin-yadavv/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sachin-yadavv/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/sachin-yadavv/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sachin-yadavv/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sachin-yadavv/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3488-closest-equal-element-queries](https://github.com/sachin-yadavv/leetcode/tree/master/3488-closest-equal-element-queries) |
