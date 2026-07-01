@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sachin-yadavv/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sachin-yadavv/leetcode/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/sachin-yadavv/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sachin-yadavv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/sachin-yadavv/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sachin-yadavv/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sachin-yadavv/leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/sachin-yadavv/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sachin-yadavv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sachin-yadavv/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/sachin-yadavv/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sachin-yadavv/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sachin-yadavv/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
