@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/sachin-yadavv/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin-yadavv/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sachin-yadavv/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/sachin-yadavv/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin-yadavv/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sachin-yadavv/leetcode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/sachin-yadavv/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2582-pass-the-pillow](https://github.com/sachin-yadavv/leetcode/tree/master/2582-pass-the-pillow) |
 | [3024-type-of-triangle](https://github.com/sachin-yadavv/leetcode/tree/master/3024-type-of-triangle) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sachin-yadavv/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
