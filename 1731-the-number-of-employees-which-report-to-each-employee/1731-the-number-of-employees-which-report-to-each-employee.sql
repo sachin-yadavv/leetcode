@@ -7,5 +7,5 @@ SELECT
 FROM employees e
 JOIN employees m
     ON e.reports_to = m.employee_id
-GROUP BY m.employee_id, m.name
+GROUP BY m.employee_id
 ORDER BY m.employee_id;
