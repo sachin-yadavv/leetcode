@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/sachin-yadavv/leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/sachin-yadavv/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/sachin-yadavv/leetcode/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/sachin-yadavv/leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/sachin-yadavv/leetcode/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/sachin-yadavv/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/sachin-yadavv/leetcode/tree/master/1667-fix-names-in-a-table) |
