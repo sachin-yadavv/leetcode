@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin-yadavv/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sachin-yadavv/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sachin-yadavv/leetcode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/sachin-yadavv/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sachin-yadavv/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/sachin-yadavv/leetcode/tree/master/0518-coin-change-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin-yadavv/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sachin-yadavv/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/sachin-yadavv/leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/sachin-yadavv/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sachin-yadavv/leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin-yadavv/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sachin-yadavv/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sachin-yadavv/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/sachin-yadavv/leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/sachin-yadavv/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sachin-yadavv/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0640-solve-the-equation](https://github.com/sachin-yadavv/leetcode/tree/master/0640-solve-the-equation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachin-yadavv/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -520,10 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sachin-yadavv/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/sachin-yadavv/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sachin-yadavv/leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/sachin-yadavv/leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
